@@ -130,7 +130,7 @@ p{
   font-size: 1.4em;
 }
 .portfolio{
-  background-image: url("https://static.pexels.com/photos/257930/pexels-photo-257930.jpeg");
+  background-image: url(IMG/portfolio.jpeg);
   padding-top: 5%;
   padding-bottom: 5%;
 }
